@@ -52,7 +52,7 @@ Project Description
 
 # Dashboard  
 
-![Alt text](https://github.com/Mohamed-mosad-hadia/Bike-Sales-Analysis-/blob/main/Dashboard.jpg?raw=true)
+![Alt text](https://github.com/Mohamed-mosad-hadia/Sales-Data-Analysis-/blob/main/Dashboard.jpg)
 
 
 ##  Connect With Me:<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
